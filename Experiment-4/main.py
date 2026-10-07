@@ -1,4 +1,7 @@
-import cv2
+# Name: Navjot Chaudhary
+# Roll No.: 40
+# Experiment: 4
+# import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
